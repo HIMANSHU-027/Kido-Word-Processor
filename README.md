@@ -1,1 +1,1 @@
-# Kido-Word-Processor
+# Kids-Word-Processor
